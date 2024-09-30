@@ -1,0 +1,5 @@
+com\example\atv03\clientes\Cliente.class
+com\example\atv03\Atv03Application.class
+com\example\atv03\clientes\ClienteRepository.class
+com\example\atv03\clientes\ClienteController.class
+com\example\atv03\clientes\ClienteService.class
